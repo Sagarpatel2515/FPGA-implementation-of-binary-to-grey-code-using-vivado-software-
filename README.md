@@ -18,7 +18,7 @@ Program your FPGA to implement the converter in hardware.
 
 # Requirements
 Xilinx Vivado Software (for simulation and FPGA programming)
-FPGA development board (optional for hardware testing)
+FPGA development board ( for hardware testing)
 
 # Applications
 This project is useful for applications in error minimization for digital systems, sensors, rotary encoders, and other fields where signal reliability is critical.
